@@ -1,6 +1,3 @@
-# Provision Azure AKS Cluster using Terraform and Azure DevOps
-
-## For Step by Step Instructions
 # Provision Azure AKS using Terraform & Azure DevOps
 
 ## Step-01: Introduction
